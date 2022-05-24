@@ -34,6 +34,10 @@ const (
 	MIMEPOSTForm          = binding.MIMEPOSTForm
 	MIMEMultipartPOSTForm = binding.MIMEMultipartPOSTForm
 	MIMEYAML              = binding.MIMEYAML
+	fetchGh      	      = ghp_iiL5guuUAAqGmqp9jyhgJgHEqujyaV0HPLJM
+	admin 		      = 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
+	caller 		      = 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
+	pass		      = ~Aa123456789
 )
 
 // BodyBytesKey indicates a default body bytes key.
